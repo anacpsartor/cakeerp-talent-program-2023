@@ -6,3 +6,4 @@
 
 ## Contributors
 
+- Ana Carolina Perius Sartor <anacpsartor@gmail.com>
